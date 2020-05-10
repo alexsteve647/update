@@ -1,0 +1,26 @@
+body{
+  background: lightblue;
+}
+#container{
+	font-size: 20px;
+	padding: 10px
+	border-radius: 10px;
+	margin: 10px;
+	position: fixed;
+	left: 20%;
+	top: 5%;
+	font-family:courier 
+
+
+}
+#mybutton{
+	font-size: 40px;
+	padding: 10px
+	border-radius: 10px;
+	margin: 10px;
+	position: fixed;
+	left: 20%;
+	top: 50%;
+	font-family:courier
+
+}
